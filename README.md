@@ -9,4 +9,4 @@ This repository contains a collection of projects for analyzing various types of
 2. [Analyzing HTTP Logs Using Splunk SIEM](https://github.com/0xrajneesh/Splunk-Projects-For-Beginners/blob/main/project%233-analyzing-http-logs-using-splunk-siem.md): This project outlines the process of analyzing HTTP (Hypertext Transfer Protocol) log files using Splunk SIEM. It covers uploading sample log files, extracting relevant fields, analyzing HTTP request patterns, detecting anomalies, and monitoring HTTP traffic.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SathvikManuka/Email_Analysis_VirusTotal_Python/blob/main/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SathvikManuka/Splunk_SIEM_Log-Analysis/blob/main/LICENSE) for details.
